@@ -2,7 +2,7 @@
 
 A custom-coded, responsive business website developed for Uniline Apex, a supplier of industrial rubber and pneumatic products.
 
-## Key Features
+## Key Features:
 
 - Responsive design for desktop, tablet, and mobile devices.
 - Multi-page business website architecture.
@@ -12,13 +12,13 @@ A custom-coded, responsive business website developed for Uniline Apex, a suppli
 - Contact enquiry form integration.
 - WhatsApp, Google Maps, and direct contact links.
 
-## Technologies Used
+## Technologies Used:
 
 - HTML5
 - CSS3
 - JavaScript
 
-## Development & Deployment
+## Development & Deployment:
 
 - Custom front-end development.
 - Responsive layout implementation.
@@ -30,7 +30,7 @@ A custom-coded, responsive business website developed for Uniline Apex, a suppli
  ## Preview:  
 https://unilineapex.com/
 
-## Source Code
+## Source Code:
 
 This repository serves as a portfolio showcase. The source code is not publicly available to respect client confidentiality.
 
